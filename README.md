@@ -154,6 +154,7 @@ Le fichier de test est utilisé pour écrire des tests unitaires pour le composa
 
 
 #Conclustion
+
 En conclusion, grâce à la combinaison de Spring Boot et d'Angular, l'application Digital Banking offre une solution complète et performante pour répondre aux besoins de gestion bancaire. Les technologies utilisées ont permis de développer une application robuste, sécurisée et conviviale, offrant aux utilisateurs une expérience bancaire agréable et efficace.
 
 
